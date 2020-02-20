@@ -1,0 +1,13 @@
+{
+  "name": "bot-discord-sucess",
+  "version": "0.1.0",
+  "description": "clear",
+  "main": "main.js",
+  "repository": "https://github.com/Denasar/bot-discord-sucess.git",
+  "author": "Denasar <etienne.santran@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "npm": "^6.13.7"
+  }
+}
